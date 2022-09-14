@@ -1,1 +1,3 @@
-# docker-test-1
+# byoc-go-sample
+
+Minimal Go API app
